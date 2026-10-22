@@ -1,6 +1,6 @@
 # Vehicle Management Dashboard
 
-A Django dashboard that reads vehicle records from `dummy_data/vehicles_data_1000.csv` and displays fleet metrics, manufacturer frequency, and charts.
+A Django dashboard that reads vehicle records from `vehicles/data/vehicles_data_1000.csv` and displays fleet metrics, manufacturer frequency, and charts.
 
 ## Run locally
 

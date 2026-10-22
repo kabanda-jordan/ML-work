@@ -3,7 +3,7 @@ from pathlib import Path
 import pandas as pd
 
 
-DATA_FILE = Path(__file__).resolve().parent.parent / "dummy_data" / "vehicles_data_1000.csv"
+DATA_FILE = Path(__file__).resolve().parent / "data" / "vehicles_data_1000.csv"
 REQUIRED_COLUMNS = {
     "vin",
     "manufacturer",
