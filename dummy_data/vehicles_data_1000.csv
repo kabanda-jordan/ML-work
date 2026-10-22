@@ -1,0 +1,4 @@
+vin,manufacturer,year,color,body_type,engine_type,transmission,fuel_type,seating_capacity,price,status,registration_date
+1HGCM82633A123456,Toyota,2020,black,Sedan,petrol,manual,gasoline,5,20000.00,active,2020-05-20
+1HGCM82633A654321,Ford,2018,white,SUV,diesel,automatic,diesel,7,25000.00,sold,2018-07-15
+1HGCM82633A789012,Honda,2021,silver,Coupe,electric,manual,electric,4,30000.00,inactive,2021-01-10
